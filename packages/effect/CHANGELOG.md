@@ -1,5 +1,15 @@
 # effect
 
+## 3.0.8
+
+### Patch Changes
+
+- [#2654](https://github.com/Effect-TS/effect/pull/2654) [`f4ed306`](https://github.com/Effect-TS/effect/commit/f4ed3068a70b50302d078a30d18ca3cfd2bc679c) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Actually fix Cause equality
+
+- [#2640](https://github.com/Effect-TS/effect/pull/2640) [`661004f`](https://github.com/Effect-TS/effect/commit/661004f4bf5f8b25f5a0678c21a3a822188ce461) Thanks [@patroza](https://github.com/patroza)! - fix: forEach NonEmpty overload causing inference issues for Iterables
+
+- [#2653](https://github.com/Effect-TS/effect/pull/2653) [`e79cb83`](https://github.com/Effect-TS/effect/commit/e79cb83d3b19098bc40a3012e2a059b8426306c2) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Consider type of failure in Cause equality
+
 ## 3.0.7
 
 ### Patch Changes
